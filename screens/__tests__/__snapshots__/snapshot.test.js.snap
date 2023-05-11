@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly Address view 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  testID="property-address"
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`renders correctly Energy Characteristics view 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  testID="property-energy"
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`renders correctly Person view 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  testID="profile-screen"
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`renders correctly Price view 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  testID="property-price"
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`renders correctly Purpose view 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  testID="purpose"
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+</RCTSafeAreaView>
+`;
